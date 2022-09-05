@@ -1,1 +1,1 @@
-A list that lists all the files(even the ones with names beginning with a period character,which are normally hidden)in the directory and the parent of the working directory and the /boot directory
+A sript that prints the type of the file named Iamafile.The Iamafioe will be in the /tmp directory
