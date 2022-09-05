@@ -1,1 +1,1 @@
-A sript that prints the type of the file named Iamafile.The Iamafioe will be in the /tmp directory
+A script that creates they file type named iamafile.The iamafile will be found in the /tmp directory
