@@ -1,1 +1,1 @@
-Create a symbolic link to /bin/ls named _ls_ in the current working directory
+A script that copies all the HTML files from the current working to the parent of the working directory,but onlycopy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
