@@ -1,1 +1,1 @@
-A script that creates they file type named iamafile.The iamafile will be found in the /tmp directory
+Create a symbolic link to /bin/ls named _ls_ in the current working directory
