@@ -1,1 +1,1 @@
-A script that counts the number of directions in the PATH
+A script that lists enviroment variables
