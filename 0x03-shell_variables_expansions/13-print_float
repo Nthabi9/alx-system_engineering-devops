@@ -1,2 +1,1 @@
-#!/bin/bash
-print "%0.2f\n" $NUM
+A csript that prints a number with two decimal places,followed by a new line.
