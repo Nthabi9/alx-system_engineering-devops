@@ -1,1 +1,1 @@
-A number that converts a number from base 2 to base 10
+Create a script that counts the number of directories in the PATH
