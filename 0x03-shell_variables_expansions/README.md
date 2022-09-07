@@ -1,1 +1,1 @@
-A script that prints the result of POWER divided by DIVINE,followed by a new line
+A script that displays the results of BREATH to the power LOVE
