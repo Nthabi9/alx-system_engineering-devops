@@ -1,1 +1,1 @@
-A script that prints all possible combinations of two letters,except oo
+Ascript tht prints a number with two decimal places,followed by a new line.
