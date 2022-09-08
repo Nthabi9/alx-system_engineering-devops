@@ -1,1 +1,1 @@
-A script that sets the mode of the file hello to julien julien
+A script that sets the mode of the file hello the same ollehs mode
