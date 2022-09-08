@@ -1,1 +1,1 @@
-A script that deletes all the regular files(not the directions)with a .js extension that are present in the current directory and all its subfolders
+A script that prints "Hello,World",folloewd by a new line to the standard output
