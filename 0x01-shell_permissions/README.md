@@ -1,1 +1,1 @@
-A script that sets the permission to the file hello as 007
+A script that sets the mode of the file hello to julien julien
