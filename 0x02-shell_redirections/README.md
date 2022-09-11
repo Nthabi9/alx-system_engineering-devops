@@ -1,1 +1,1 @@
-A script that prints "Hello,World",folloewd by a new line to the standard output
+A script that writes into the file ls_cwd_content the result of the command ls -la.
