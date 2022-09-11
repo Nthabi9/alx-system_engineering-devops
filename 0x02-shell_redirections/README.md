@@ -1,1 +1,1 @@
-A script that displays all users and their home directories,sorted by users.
+A script that displays a confused smiley "(Ôo)
