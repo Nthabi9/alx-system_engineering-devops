@@ -1,1 +1,1 @@
-A symbolic link to /bin/ls,named _ls_.
+Create a symbolic link to /bin/ls,named __ls__
