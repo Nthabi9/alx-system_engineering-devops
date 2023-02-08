@@ -1,1 +1,1 @@
-Create a script that deletes all files in the current working directory
+Create a scriot that creates welcome/ welcome/to/ and welcome/to/school
