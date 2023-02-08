@@ -1,1 +1,1 @@
-Create a scriot that creates welcome/ welcome/to/ and welcome/to/school
+Write a commandtjat lists all the files and the directoriesof the current directory,separated by commas,
